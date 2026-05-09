@@ -44,7 +44,7 @@ export const developer = {
   name:     "Mohd Adil",
   title:    "Associate Software Developer",
   company:  "Binmile Technologies, Noida",
-  location: "Ghaziabad, UP 🇮🇳",
+  location: "Noida, UP 🇮🇳",
   education:"B.Tech CSE — KIET (2024) | 7.85 GPA",
 
   stack: {
@@ -65,7 +65,6 @@ export const developer = {
 
   contact: {
     email: "mohd.adil0137@gmail.com",
-    phone: "+91-9125918419",
   },
 
   funFact: "I ship features, not just code 🚢",
