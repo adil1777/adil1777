@@ -32,7 +32,6 @@
 <td width="55%">
 
 ```typescript
-// adil.config.ts
 
 export const developer = {
   name:     "Mohd Adil",
