@@ -1,30 +1,25 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0f1e,40:0d2137,100:0a1628&height=220&section=header&text=Mohd%20Adil&fontSize=75&fontColor=4FC3F7&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Node.js%20%7C%20React%20%7C%20AWS%20%7C%20DSA&descAlignY=62&descSize=16&descColor=90CAF9&animation=blinking&stroke=1C4F7C&strokeWidth=2"/>
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohd%20Adil&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Associate%20Software%20Developer%20%7C%20Backend%20Developer&descAlignY=58&descSize=20&animation=fadeIn" />
 
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=4FC3F7&center=true&vCenter=true&width=700&lines=const+dev+%3D+new+FullStackDeveloper('Mohd+Adil');+%F0%9F%9A%80;dev.works(%22Node.js+%7C+NestJS+%7C+React%22);+%E2%9C%85;dev.deploys(%22AWS+SQS+%7C+S3+%7C+API+Gateway%22);+%E2%98%81%EF%B8%8F;dev.solves(%22LeetCode+Knight+%F0%9F%8F%86+%7C+Top+5%25%22);+%F0%9F%94%A5;dev.ships(%22100k%2B+daily+API+requests%22);+%F0%9F%8C%90)](https://git.io/typing-svg)
-
-</div>
+<!-- Typing Animation -->
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=Node.js+%7C+NestJS+%7C+React.js+%7C+Razorpay;Microservices+%7C+Event-Driven+Architecture;AWS+%7C+Scalable+Backend+Systems;Building+High-Performance+Applications+%F0%9F%9A%80;1%2B+Year+of+Full-Stack+Development" 
+    alt="Typing SVG" 
+  />
+</a>
 
 <br/>
 
-<div align="center">
-
+<!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/─────%20LinkedIn%20─────-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adil1777)
 [![GitHub](https://img.shields.io/badge/─────%20GitHub%20─────-1C2333?style=for-the-badge&logo=github&logoColor=4FC3F7)](https://github.com/adil1777)
 [![LeetCode](https://img.shields.io/badge/LeetCode%20Knight%20🏆-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/adil1777)
 [![Email](https://img.shields.io/badge/─────%20Gmail%20─────-0d2137?style=for-the-badge&logo=gmail&logoColor=4FC3F7)](mailto:mohd.adil0137@gmail.com)
 
-</div>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=adil1777&label=Profile+Views&color=4FC3F7&style=flat-square&labelColor=0d1117"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/adil1777?label=Followers&style=flat-square&color=4FC3F7&labelColor=0d1117"/>
 </div>
 
 <br/>
