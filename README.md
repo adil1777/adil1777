@@ -4,7 +4,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohd%20Adil&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Associate%20Software%20Developer%20%7C%20Backend%20Developer&descAlignY=58&descSize=20&animation=fadeIn" />
 
 <!-- Typing Animation -->
-<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=Node.js+%7C+NestJS+%7C+React.js+%7C+Razorpay;Microservices+%7C+Event-Driven+Architecture;AWS+%7C+Scalable+Backend+Systems;Building+High-Performance+Applications+%F0%9F%9A%80;1%2B+Year+of+Full-Stack+Development" 
@@ -15,10 +14,10 @@
 <br/>
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/─────%20LinkedIn%20─────-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adil1777)
-[![GitHub](https://img.shields.io/badge/─────%20GitHub%20─────-1C2333?style=for-the-badge&logo=github&logoColor=4FC3F7)](https://github.com/adil1777)
-[![LeetCode](https://img.shields.io/badge/LeetCode%20Knight%20🏆-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/adil1777)
-[![Email](https://img.shields.io/badge/─────%20Gmail%20─────-0d2137?style=for-the-badge&logo=gmail&logoColor=4FC3F7)](mailto:mohd.adil0137@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-adil-305999215/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adil1777)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Knight%20🏆-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/adil1777)
+[![Email](https://img.shields.io/badge/Email-mohd.adil0137%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohd.adil0137@gmail.com)
 
 </div>
 
