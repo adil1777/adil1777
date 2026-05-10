@@ -67,46 +67,42 @@
 
 ---
 
-## 🧠 Who Am I?
+---
 
-<table>
-<tr>
-<td width="55%">
+## ⚡ About Me
 
 ```typescript
-
 export const developer = {
   name:     "Mohd Adil",
   title:    "Associate Software Developer",
   company:  "Binmile Technologies, Noida",
+  Experience: "1 Year",
   location: "Noida, UP 🇮🇳",
-  education:"B.Tech CSE — KIET (2024) | 7.85 GPA",
-
-  stack: {
-    frontend:  ["React.js", "HTML5", "CSS3"],
-    backend:   ["Node.js", "NestJS", "Express.js"],
-    databases: ["MySQL", "MongoDB", "PostgreSQL", "Redis"],
-    cloud:     ["AWS S3", "SQS", "SNS", "API Gateway"],
-    payments:  ["Razorpay"],
-    languages: ["JavaScript", "C++", "C"],
-  },
-
-  currentlyDoing: [
-    "⚡ 100k+ daily API requests @ 99.9% uptime",
-    "💳 Razorpay: 10k+ monthly transactions",
-    "🚀 Redis caching → 40% faster APIs",
-    "☁️  AWS SQS/SNS → 30% less latency",
-  ],
-
-  contact: {
-    email: "mohd.adil0137@gmail.com",
-  },
-
-  funFact: "I ship features, not just code 🚢",
+  education: "B.Tech CSE — KIET (2024) | 7.85 GPA",
+ passion: [
+    "🎨 Crafting pixel-perfect UIs with React.js",
+    "⚙️  Engineering robust & scalable backend systems",
+    "🗄️  Designing efficient database architectures",
+    "☁️  Building cloud-native solutions on AWS",
+    "⚡ Obsessing over API performance & caching",
+    "🔄 Owning features from DB schema to UI render",
+     "📚 Continuous learning & upskilling",
+    "🚀 Turning ideas into production-ready products",
+  ], 
+  funFact:  "I ship features, not just code 🚢",
 } as const;
+
+
 ```
 
-</td>
+> "Full-stack developer with a heavy backend soul — obsessing over latency, " +
+       "scalability & clean architecture. At Binmile Technologies, engineered " +
+       "microservices for DentalKart (booking & event services) and KeySight — " +
+       "scaling APIs to 100k+ daily requests, crushing slow queries with Redis " +
+       "& slashing latency 30% via AWS SQS/SNS.",
+
+---
+
 <td width="45%" align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=adil1777&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=90CAF9&ring_color=1565C0" width="100%"/>
@@ -115,9 +111,6 @@ export const developer = {
 
 <img src="https://streak-stats.demolab.com?user=adil1777&theme=midnight-purple&hide_border=true&background=0d1117&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7&sideLabels=90CAF9&dates=546E7A" width="100%"/>
 
-</td>
-</tr>
-</table>
 
 ---
 
