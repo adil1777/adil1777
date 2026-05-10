@@ -141,13 +141,23 @@ export const developer = {
 
 <div align="center">
 
-| Metric | Achievement |
-|:------:|:-----------:|
-| 🌐 Daily API Requests | **100,000+** at 99.9% uptime |
-| 💳 Monthly Transactions | **10,000+** via Razorpay |
-| ⚡ API Speed Boost | **40% faster** with Redis caching |
-| 📉 Latency Reduction | **30% less** via AWS SQS/SNS |
-| 👥 Daily Active Users | **5,000+** on S3 file flows |
+| 🌍 Metric | ✨ Achievement |
+|:---------:|:--------------:|
+| 🌐 Daily API Requests | Handled **100,000+** requests with **99.9% uptime** |
+| 💳 Payment Processing | Processed **10,000+** monthly transactions via **Razorpay** |
+| ⚡ API Optimization | Improved response time by **40%** using **Redis caching** |
+| 📉 System Latency | Reduced delays by **30%** with **AWS SQS/SNS queues** |
+| ⏰ Scheduler & Automation | Built **cron-based schedulers** for jobs, reminders & notifications |
+| 📍 Geo-Based Services | Developed **location-aware workflows & geo-service logic** |
+| 🔐 Authentication & Security | Implemented **JWT auth, RBAC & secure API middleware** |
+| 📦 File Storage Pipelines | Managed scalable **AWS S3 upload & access workflows** |
+| 🔄 Event-Driven Systems | Built reliable **async queue-based processing systems** |
+| 📊 Database Optimization | Optimized complex queries using **MySQL indexing & TypeORM** |
+| 🚀 Backend Architecture | Developed modular & scalable **NestJS backend services** |
+| 👥 User Scale | Supported **5,000+ daily active users** across platforms |
+| 🛠 Engineering Workflow | Worked with **Git, Postman, Swagger & REST standards** |
+| ☁️ AWS Infrastructure | Integrated **S3, API Gateway, SQS & SNS** services |
+| 📈 Reliability & Monitoring | Improved backend stability & fault-tolerant workflows |
 
 </div>
 
