@@ -67,8 +67,6 @@
 
 ---
 
----
-
 ## ⚡ About Me
 
 ```typescript
@@ -95,11 +93,7 @@ export const developer = {
 
 ```
 
-> "Full-stack developer with a heavy backend soul — obsessing over latency, " +
-       "scalability & clean architecture. At Binmile Technologies, engineered " +
-       "microservices for DentalKart (booking & event services) and KeySight — " +
-       "scaling APIs to 100k+ daily requests, crushing slow queries with Redis " +
-       "& slashing latency 30% via AWS SQS/SNS.",
+> Full-stack developer with a heavy backend soul — obsessing over latency,scalability & clean architecture. At Binmile Technologies , engineered microservices for DentalKart (booking & event services) and KeySight , scaling APIs to 100k+ daily requests, crushing slow queries with Redis & slashing latency 30% via AWS SQS/SNS.
 
 ---
 
