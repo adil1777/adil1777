@@ -109,7 +109,7 @@ export const developer = {
 ╠══════════════╬═══════════════════════════════════════════════╣
 ║  LeetCode    ║  🏆 KNIGHT — Top 5% Globally | 800+ solved   ║
 ║  CodeChef    ║  🥇 Global Rank 63 | Div 3 (10k+ players)    ║
-║  HackerRank  ║  ⭐⭐⭐⭐⭐ 5-Star | 300+ challenges          ║
+║  HackerRank  ║  ⭐⭐⭐⭐⭐ 5-Star | 300+ challenges       ║
 ║  GFG         ║  🔥 700+ Problems | Advanced DSA             ║
 ╚══════════════╩═══════════════════════════════════════════════╝
 ```
@@ -118,19 +118,24 @@ export const developer = {
 
 ---
 
-## 📈 GitHub Activity
+## 💡 What I Specialize In
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adil1777&bg_color=0d1117&color=4FC3F7&line=1565C0&point=4FC3F7&area=true&area_color=0d2137&hide_border=true&custom_title=Adil's%20Contribution%20Graph" width="95%"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adil1777&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=90CAF9" width="36%"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-trophy.vercel.app/?username=adil1777&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=4" width="56%"/>
-</div>
-
----
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│   ⚙️  Backend & Architecture              ☁️  Cloud & Infra        │
+│   ├─ Scalable Microservices              ├─ AWS (S3, SQS, SNS,      │
+│   ├─ Event-Driven Architecture           │   API Gateway)           │
+│   ├─ High-Throughput REST APIs           ├─ Message Queues          │
+│   └─ Idempotent API Design              └─ (SQS / Kafka)            │
+│                                                                     │
+│   🗄️  Data & Performance                 🔐 Reliability & Design   │
+│   ├─ Redis Caching & Queuing             ├─ Transactional Workflows │
+│   ├─ Database Optimization               ├─ System Design           │
+│   └─ Query Tuning (ms responses)        └─ Clean Architecture       │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
 
 ## 🚀 Production Impact @ Binmile
 
@@ -144,6 +149,14 @@ export const developer = {
 | 📉 Latency Reduction | **30% less** via AWS SQS/SNS |
 | 👥 Daily Active Users | **5,000+** on S3 file flows |
 
+</div>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adil1777&bg_color=0d1117&color=4FC3F7&line=1565C0&point=4FC3F7&area=true&area_color=0d2137&hide_border=true&custom_title=Adil's%20Contribution%20Graph" width="95%"/>
 </div>
 
 ---
