@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:6dd5ed&height=200&section=header&text=Mohd%20Adil&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Associate%20Software%20Developer%20%7C%20Backend%20Developer&descAlignY=58&descSize=20&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:1e293b,50:2563eb,75:38bdf8,100:67e8f9&height=220&section=header&text=Mohd%20Adil&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=Associate%20Software%20Developer%20%7C%20Backend%20Engineer&descAlignY=58&descSize=22&animation=fadeIn" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Node.js+%7C+NestJS+%7C+React.js+%7C+Razorpay;Microservices+%7C+Event-Driven+Architecture;AWS+%7C+Scalable+Backend+Systems;Building+High-Performance+Applications+%F0%9F%9A%80;1%2B+Year+of+Full-Stack+Development" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&lines=Node.js+%7C+NestJS+%7C+React.js+%7C+Razorpay;Microservices+%7C+Event-Driven+Architecture;AWS+%7C+Scalable+Backend+Systems;Building+High-Performance+Applications+%F0%9F%9A%80;1%2B+Year+of+Full-Stack+Development" 
     alt="Typing SVG" 
   />
 </a>
@@ -195,6 +195,6 @@ export const developer = {
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:0d2137,100:0a0f1e&height=130&section=footer&text=Open%20to%20Opportunities%20%F0%9F%9A%80&fontSize=22&fontColor=4FC3F7&fontAlignY=65&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:1e293b,50:2563eb,75:38bdf8,100:67e8f9&height=130&section=footer&text=Open%20to%20Opportunities%20%F0%9F%9A%80&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=twinkling"/>
 
 </div>
