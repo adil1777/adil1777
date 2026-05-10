@@ -25,6 +25,36 @@
 
 ---
 
+## ⚡ About Me
+
+```typescript
+export const developer = {
+  name:     "Mohd Adil",
+  title:    "Associate Software Developer",
+  company:  "Binmile Technologies, Noida",
+  Experience: "1 Year",
+  location: "Noida, UP 🇮🇳",
+  education: "B.Tech CSE — KIET (2024) | 7.85 GPA",
+ passion: [
+    "🎨 Crafting pixel-perfect UIs with React.js",
+    "⚙️  Engineering robust & scalable backend systems",
+    "🗄️  Designing efficient database architectures",
+    "☁️  Building cloud-native solutions on AWS",
+    "⚡ Obsessing over API performance & caching",
+    "🔄 Owning features from DB schema to UI render",
+     "📚 Continuous learning & upskilling",
+    "🚀 Turning ideas into production-ready products",
+  ], 
+  funFact:  "I ship features, not just code 🚢",
+} as const;
+
+
+```
+
+> Full-stack developer with a heavy backend soul — obsessing over latency,scalability & clean architecture. At Binmile Technologies , engineered microservices for DentalKart (booking & event services) and KeySight , scaling APIs to 100k+ daily requests, crushing slow queries with Redis & slashing latency 30% via AWS SQS/SNS.
+
+---
+
 ## 🛠️ Full-Stack Arsenal
 
 <div align="center">
@@ -67,44 +97,24 @@
 
 ---
 
-## ⚡ About Me
+## 🏅 DSA & Competitive Programming
 
-```typescript
-export const developer = {
-  name:     "Mohd Adil",
-  title:    "Associate Software Developer",
-  company:  "Binmile Technologies, Noida",
-  Experience: "1 Year",
-  location: "Noida, UP 🇮🇳",
-  education: "B.Tech CSE — KIET (2024) | 7.85 GPA",
- passion: [
-    "🎨 Crafting pixel-perfect UIs with React.js",
-    "⚙️  Engineering robust & scalable backend systems",
-    "🗄️  Designing efficient database architectures",
-    "☁️  Building cloud-native solutions on AWS",
-    "⚡ Obsessing over API performance & caching",
-    "🔄 Owning features from DB schema to UI render",
-     "📚 Continuous learning & upskilling",
-    "🚀 Turning ideas into production-ready products",
-  ], 
-  funFact:  "I ship features, not just code 🚢",
-} as const;
-
+<div align="center">
 
 ```
+╔══════════════════════════════════════════════════════════════╗
+║           COMPETITIVE PROGRAMMING SCOREBOARD                 ║
+╠══════════════╦═══════════════════════════════════════════════╣
+║  Platform    ║  Achievement                                  ║
+╠══════════════╬═══════════════════════════════════════════════╣
+║  LeetCode    ║  🏆 KNIGHT — Top 5% Globally | 800+ solved   ║
+║  CodeChef    ║  🥇 Global Rank 63 | Div 3 (10k+ players)    ║
+║  HackerRank  ║  ⭐⭐⭐⭐⭐ 5-Star | 300+ challenges          ║
+║  GFG         ║  🔥 700+ Problems | Advanced DSA             ║
+╚══════════════╩═══════════════════════════════════════════════╝
+```
 
-> Full-stack developer with a heavy backend soul — obsessing over latency,scalability & clean architecture. At Binmile Technologies , engineered microservices for DentalKart (booking & event services) and KeySight , scaling APIs to 100k+ daily requests, crushing slow queries with Redis & slashing latency 30% via AWS SQS/SNS.
-
----
-
-<td width="45%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=adil1777&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=90CAF9&ring_color=1565C0" width="100%"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=adil1777&theme=midnight-purple&hide_border=true&background=0d1117&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7&sideLabels=90CAF9&dates=546E7A" width="100%"/>
-
+</div>
 
 ---
 
@@ -133,53 +143,6 @@ export const developer = {
 | ⚡ API Speed Boost | **40% faster** with Redis caching |
 | 📉 Latency Reduction | **30% less** via AWS SQS/SNS |
 | 👥 Daily Active Users | **5,000+** on S3 file flows |
-
-</div>
-
----
-
-## 📌 Projects
-
-<div align="center">
-
-<a href="https://github.com/adil1777/doctor-appointment">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=adil1777&repo=doctor-appointment&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=90CAF9&icon_color=4FC3F7"/>
-</a>
-<a href="https://github.com/adil1777/lifedrop-hub">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=adil1777&repo=lifedrop-hub&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=90CAF9&icon_color=4FC3F7"/>
-</a>
-<a href="https://github.com/adil1777/homyz">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=adil1777&repo=homyz&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=90CAF9&icon_color=4FC3F7"/>
-</a>
-
-</div>
-
-<br/>
-
-> **🏥 Doctor Appointment System** — MERN stack patient-doctor scheduling with real-time booking · Dec 2024
->
-> **💉 LifeDrop Hub** — Emergency blood type finder with community-driven donation system · Apr 2023
->
-> **🏠 Homyz** — Real estate platform to buy, sell & rent properties with interactive UI · Dec 2022
-
----
-
-## 🏅 DSA & Competitive Programming
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║           COMPETITIVE PROGRAMMING SCOREBOARD                 ║
-╠══════════════╦═══════════════════════════════════════════════╣
-║  Platform    ║  Achievement                                  ║
-╠══════════════╬═══════════════════════════════════════════════╣
-║  LeetCode    ║  🏆 KNIGHT — Top 5% Globally | 800+ solved   ║
-║  CodeChef    ║  🥇 Global Rank 63 | Div 3 (10k+ players)    ║
-║  HackerRank  ║  ⭐⭐⭐⭐⭐ 5-Star | 300+ challenges          ║
-║  GFG         ║  🔥 700+ Problems | Advanced DSA             ║
-╚══════════════╩═══════════════════════════════════════════════╝
-```
 
 </div>
 
