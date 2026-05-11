@@ -196,6 +196,9 @@ export const developer = {
 
 <br/>
 
+![Profile Views](https://komarev.com/ghpvc/?username=adil1777&color=2563eb&style=for-the-badge&label=PROFILE+VIEWS)
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:1e293b,50:2563eb,75:38bdf8,100:67e8f9&height=130&section=footer&text=Open%20to%20Opportunities%20%F0%9F%9A%80&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=twinkling"/>
+
 
 </div>
