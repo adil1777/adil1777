@@ -16,7 +16,7 @@
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adil0137/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adil-bm394)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Knight%20🏆-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/adil_2024)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Knight%20🏆-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/adil0137)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/adil_2024?tab=activity)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio-xc50.onrender.com/)
 [![Email](https://img.shields.io/badge/Email-mohd.adil0137%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohd.adil0137@gmail.com)
@@ -202,7 +202,7 @@ export const developer = {
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adil0137)
 [![Email](https://img.shields.io/badge/Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohd.adil0137@gmail.com)
-[![LeetCode](https://img.shields.io/badge/Challenge_Me_on_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/adil_2024)
+[![LeetCode](https://img.shields.io/badge/Challenge_Me_on_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/adil0137)
 
 <br/>
 
