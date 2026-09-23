@@ -200,7 +200,7 @@ export const developer = {
 
 *"Code is not just syntax — it's the bridge between ideas and reality."*
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-adil-305999215)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adil0137)
 [![Email](https://img.shields.io/badge/Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohd.adil0137@gmail.com)
 [![LeetCode](https://img.shields.io/badge/Challenge_Me_on_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/adil_2024)
 
